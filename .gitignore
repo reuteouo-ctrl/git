@@ -1,1 +1,8 @@
 .tools/
+.codex/
+.env
+.env.*
+.venv/
+__pycache__/
+*.py[cod]
+python-*-amd64.exe
